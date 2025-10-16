@@ -24,12 +24,13 @@ hello my friend let's debloat you're s22 ultra!!
   notes
 
 6: disable apps
-  chrome
-  play market 
-  and other galaxy and google bloat
+  chrome,play market and other galaxy and google bloat
+
 7: let's open source
-  install vanced manager
-     in vanced manager install:
-         microg, vanced youtube and vanced youtube music
-         
   
+  7.1 install vanced manager
+     7.1.1 in vanced manager install:
+         microg, vanced youtube and vanced youtube music
+ 7.2 install Firefox, Thunderbird and if you delete chrome you need install custom WebView service 
+         
+
